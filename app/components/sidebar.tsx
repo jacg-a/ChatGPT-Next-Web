@@ -98,7 +98,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT Next</div>
         <div className={styles["sidebar-sub-title"]}>
-         成品账号购买，API购买，微信：kumu1000,
+         官网成品账号购买，API购买，微信：kumu1000,一元五美金API，可以回答75万字
         <a href="http://www.openai.mo.cn" target="_blank"> 点击API购买</a>
 
         </div>
