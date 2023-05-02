@@ -280,7 +280,7 @@ export function Settings() {
             {checkingUpdate ? (
               <div />
             ) : hasNewVersion ? (
-              <Link href={WWW.OPENAI.MO.CN} target="_blank" className="link">
+              <Link href={OPENAI_URL} target="_blank" className="link">
                 {Locale.Settings.Update.GoToUpdate}
               </Link>
             ) : (
