@@ -92,7 +92,8 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "前往更新",
+      GoToUpdate: "<a href="http://www.openai.mo.cn">点击跳转到OpenAI官网</a>
+",
     },
     SendKey: "发送键",
     Theme: "主题",
