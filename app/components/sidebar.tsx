@@ -98,8 +98,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT Next</div>
         <div className={styles["sidebar-sub-title"]}>
-         体验密码123，密码失效找客服领取，每天更新。
-         客服微信：kumu1000
+         体验密码123，密码失效找客服领取，每天更新。客服微信：kumu1000
         <a href="http://www.openai.mo.cn" target="_blank"> 点击购买成品账号、API</a>https://www.openai.mo.cn
 
         </div>
